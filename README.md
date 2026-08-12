@@ -2,13 +2,13 @@
 
 # Israa Daassi
 
-### Software Engineering Student · AI Engineer · Backend Systems
+### Software Engineering Student
 
-Building intelligent applications, AI systems, and production-oriented backend infrastructure.
+Let's connect on Linkedin:
 
 <br/>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/israa-daassi/)">
+<a href="https://www.linkedin.com/in/israa-daassi/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
