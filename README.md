@@ -20,7 +20,6 @@ I'm a Software Engineering student focused on building intelligent software syst
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Israadaassi1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Israadaassi1&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Israadaassi1&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
