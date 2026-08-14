@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E75480&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+israa;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D85CD2&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+israa;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -47,7 +47,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/israadaassi1)
-
 ---
