@@ -18,7 +18,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Israadaassi1&theme=github-dark&mode=light" />
+<source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=Israadaassi1&theme=github-dark&mode=light" />
 <img src="https://www.gitskins.com/api/section/about?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 about section" />
 </picture>
 </p>
@@ -27,7 +27,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Israadaassi1&theme=github-dark&mode=light" />
+<source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=Israadaassi1&theme=github-dark&mode=light" />
 <img src="https://www.gitskins.com/api/section/stack?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 stack section" />
 </picture>
 </p>
@@ -36,19 +36,8 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Israadaassi1&theme=github-dark&mode=light" />
+<source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=Israadaassi1&theme=github-dark&mode=light" />
 <img src="https://www.gitskins.com/api/section/projects?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 projects section" />
-</picture>
-</p>
-
-## Heatmap
-
-## GitHub Stats
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Israadaassi1&theme=github-dark&mode=light" />
-<img src="https://www.gitskins.com/api/section/stats?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 stats section" />
 </picture>
 </p>
 
@@ -59,6 +48,4 @@ LinkedIn: israa-daassi
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Israadaassi1&theme=github-dark&linkedin=israa-daassi&mode=light" />
-<img src="https://www.gitskins.com/api/section/social?username=Israadaassi1&theme=github-dark&linkedin=israa-daassi" alt="Israadaassi1 social section" />
-</picture>
 </p>
