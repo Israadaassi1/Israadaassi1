@@ -5,11 +5,11 @@
 
 ## Header
 
-Hi, I'm **Israadaassi1**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+Hi, I'm **Israa**, Software Engineering student focused on building intelligent software systems at the intersection of AI, backend engineering, and data.
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Israadaassi1&theme=github-dark&mode=light" />
+<source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=Israadaassi1&theme=github-dark&mode=light" />
 <img src="https://www.gitskins.com/api/section/hero?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 hero section" />
 </picture>
 </p>
