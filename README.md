@@ -1,10 +1,7 @@
-# Israadaassi1
+# ⚡Israadaassi1
 
 > Learning velocity and project potential.
 > 
-
-## Header
-
 Hi, I'm **Israa**, Software Engineering student focused on building intelligent software systems at the intersection of AI, backend engineering, and data.
 
 <p align="center">
@@ -14,7 +11,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 </picture>
 </p>
 
-## About Me
+## ⚡About Me
 
 <p align="center">
 <picture>
@@ -23,7 +20,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 </picture>
 </p>
 
-## Skills
+## ⚡Skills
 
 <p align="center">
 <picture>
@@ -32,7 +29,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 </picture>
 </p>
 
-## Projects
+## ⚡Projects
 
 <p align="center">
 <picture>
@@ -41,7 +38,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 </picture>
 </p>
 
-## Connect
+## ⚡Connect
 
 LinkedIn: israa-daassi
 
