@@ -6,7 +6,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=Israadaassi1&theme=github-dark&mode=light" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Israadaassi1&theme=github-dark&mode=light" />
 <img src="https://www.gitskins.com/api/section/hero?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 hero section" />
 </picture>
 </p>
@@ -15,7 +15,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=Israadaassi1&theme=github-dark&mode=light" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Israadaassi1&theme=github-dark&mode=light" />
 <img src="https://www.gitskins.com/api/section/about?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 about section" />
 </picture>
 </p>
@@ -24,7 +24,7 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=Israadaassi1&theme=github-dark&mode=light" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Israadaassi1&theme=github-dark&mode=light" />
 <img src="https://www.gitskins.com/api/section/stack?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 stack section" />
 </picture>
 </p>
