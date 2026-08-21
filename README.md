@@ -45,4 +45,6 @@ LinkedIn: israa-daassi
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Israadaassi1&theme=github-dark&linkedin=israa-daassi&mode=light" />
+<img src="https://www.gitskins.com/api/section/social?username=Israadaassi1&theme=github-dark&linkedin=israa-daassi" alt="Israadaassi1 social section" />
+</picture>
 </p>
