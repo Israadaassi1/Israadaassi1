@@ -1,7 +1,9 @@
 # ⚡Israadaassi1
 
 > Learning velocity and project potential.
-> 
+>
+## ⚡About Me
+
 Hi, I'm **Israa**, Software Engineering student focused on building intelligent software systems at the intersection of AI, backend engineering, and data.
 
 <p align="center">
@@ -11,14 +13,6 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 </picture>
 </p>
 
-## ⚡About Me
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Israadaassi1&theme=github-dark&mode=light" />
-<img src="https://www.gitskins.com/api/section/about?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 about section" />
-</picture>
-</p>
 
 ## ⚡Skills
 
