@@ -33,18 +33,22 @@ Hi, I'm **Israa**, Software Engineering student focused on building intelligent 
 
 <p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=Israadaassi1&theme=github-dark&mode=light" />
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Israadaassi1&theme=github-dark&mode=light" />
 <img src="https://www.gitskins.com/api/section/projects?username=Israadaassi1&theme=github-dark" alt="Israadaassi1 projects section" />
 </picture>
 </p>
 
 ## ⚡Connect
 
-LinkedIn: israa-daassi
 
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=Israadaassi1&theme=github-dark&linkedin=israa-daassi&mode=light" />
 <img src="https://www.gitskins.com/api/section/social?username=Israadaassi1&theme=github-dark&linkedin=israa-daassi" alt="Israadaassi1 social section" />
 </picture>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/israa-daassi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
