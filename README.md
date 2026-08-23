@@ -4,7 +4,7 @@
 >
 ## ⚡About Me
 
-Hi, I'm **Israa**, Software Engineering student focused on building intelligent software systems at the intersection of AI, backend engineering, and data.
+Hi, I'm **Israa**, Software Engineering student focused on building intelligent software systems at the intersection of **AI, backend engineering, and data**.
 
 <p align="center">
 <picture>
